@@ -1,0 +1,6 @@
+kpmg-code/metadata_version: https://github.com/KPMG-UK/kpmg-metadata-schema/blob/main/versions/v1.1/kpmg-schema.yml
+kpmg-code/cmdb:
+  kpmg-uk/asset_explorer:
+    asset_code: ''
+codeContribution30DaySplit:
+- []
